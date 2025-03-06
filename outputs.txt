@@ -1,0 +1,258 @@
+OUTPUT 4
+
+Enter your name:
+Gopika
+Hello, Gopika
+
+
+
+
+
+
+OUTPUT 5
+
+
+Enter a number:
+25
+25 is an odd number
+
+
+
+
+
+OUTPUT 6
+
+
+Enter first number:
+25
+Enter second number:
+56
+Enter third number:
+89
+89 is the greatest number
+
+
+
+
+
+OUTPUT 7
+
+
+Enter first number:
+10
+Enter second number:
+20
+Enter third number:
+30
+Enter fourth number:
+40
+Sum:100
+Average:25
+Product:240000
+
+
+
+
+OUTPUT 8
+
+
+Enter a year:2024
+2024 is a Leap year
+
+
+Enter a year:2000
+2000 is a Leap Year
+
+
+Enter a year:2025
+2025 is NOT a Leap Year
+
+
+
+OUTPUT 9
+
+Enter a number:
+45
+Sum of digits is:9
+
+
+
+OUTPUT 10
+ 
+ 
+ Enter a number:153
+153 is an Armstrong number
+
+Enter a number:456
+456 is not an Armstrong number
+
+
+
+OUTPUT 11
+
+Number of names: 3
+Number at index 2: Govind
+List of names:
+Ali
+Melvi
+Govind
+
+
+
+OUTPUT 12
+
+Enter a number:5
+Factorial of 5 is 120
+
+
+OUTPUT 13
+
+Enter a string:malayalam
+Reversed String: malayalam
+The string is a palindrome
+
+Enter a string:beautiful
+Reversed String: lufituaeb
+The string is NOT a palindrome.
+
+
+OUTPUT 14
+
+Enter a number:123
+Reversed Number:321
+
+
+OUTPUT 15
+
+Enter first number:
+23
+Enter an operator (+,-,*,/,%):
++
+Enter second number:
+5
+Result:28
+
+Enter first number:
+6
+Enter an operator (+,-,*,/,%):
+-
+Enter second number:
+5
+Result:1
+
+Enter first number:
+3
+Enter an operator (+,-,*,/,%):
+*
+Enter second number:
+5
+Result:15
+
+Enter first number:
+9
+Enter an operator (+,-,*,/,%):
+/
+Enter second number:
+3
+Result:3
+
+Enter first number:
+10
+Enter an operator (+,-,*,/,%):
+%
+Enter second number:
+3
+Result:1
+
+
+OUTPUT 16
+
+Enter a number:5
+Multiplication table for 5:
+5 X 1 =5
+5 X 2 =10
+5 X 3 =15
+5 X 4 =20
+5 X 5 =25
+5 X 6 =30
+5 X 7 =35
+5 X 8 =40
+5 X 9 =45
+5 X 10 =50
+
+
+OUTPUT 17
+
+Enter marks for subject 1:89
+Enter marks for subject 2:96
+Enter marks for subject 3:95
+Total Marks:280
+Your Grade:A
+
+Enter marks for subject 1:80
+Enter marks for subject 2:99
+Enter marks for subject 3:79
+Total Marks:258
+Your Grade:B
+
+Enter marks for subject 1:45 
+Enter marks for subject 2:58
+Enter marks for subject 3:60
+Total Marks:163
+Your Grade:F
+
+
+
+OUTPUT 18
+
+Enter the filename:
+prgrm17
+File does not exist.
+
+
+Enter the filename:
+prgrm17.sh
+File exists.
+File is readable.
+File is writable.
+File is both readable and writable.
+
+
+OUTPUT 19
+
+Enter the filename:
+prgrm19.sh
+File exists.choose an operation:
+1.Copy
+2.Edit
+3.Rename
+4.Delete
+5.Exit
+Enter your choice:1
+Enter destination filename:file operation
+File copied successfully.
+
+Enter the filename:
+prgrm19.sh
+File exists.choose an operation:
+1.Copy
+2.Edit
+3.Rename
+4.Delete
+5.Exit
+Enter your choice:3
+Enter new filename:fileoperation.sh
+File renamed successfully.
+
+
+Enter the filename:
+prgrm19.sh
+File exists.choose an operation:
+1.Copy
+2.Edit
+3.Rename
+4.Delete
+5.Exit
+Enter your choice:2
+
+
